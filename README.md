@@ -1,3 +1,3 @@
 # BreakingBadDemo
 
-Uses CocoaPods so run "pod install" on first use
+Uses CocoaPods to run "pod install" on first use
