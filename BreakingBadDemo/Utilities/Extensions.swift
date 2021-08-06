@@ -1,0 +1,16 @@
+//
+//  Extensions.swift
+//  BreakingBadDemo
+//
+//  Created by Juan Kruger
+//
+
+import Foundation
+import UIKit
+
+extension String {
+    
+    var localized: String {
+        return NSLocalizedString(self, comment: "")
+    }
+}
